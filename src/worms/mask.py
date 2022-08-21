@@ -1,8 +1,12 @@
+list1=['h', 'e', 'j']
+list1.append ('.')
+for pp in list1:
+    print(pp)
 
-list1=[("huvud", "3", "5"), ("kropp", "4", "5")]
-print(list1)
-list1.append(("kropp", "5", "5"))
-print(list1)
+
+
+
+
 
 
 

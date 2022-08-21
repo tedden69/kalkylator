@@ -93,3 +93,5 @@ Uppgift 2)
 
 - ) loopa över listan och plocka ut varje element för sig (for loop som först läser position 0, sedan position 1, osv...)
 - ) printa varje position
+
+tips: Googla "python for loop", "python loop over list", "python loop print each element"
