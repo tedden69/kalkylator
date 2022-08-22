@@ -94,4 +94,11 @@ Uppgift 2)
 - ) loopa över listan och plocka ut varje element för sig (for loop som först läser position 0, sedan position 1, osv...)
 - ) printa varje position
 
+Uppgift 3)
+- ) Istället för att lägga in en bokstav på varje element i listan, lägg istället in en list (lista i lista!). Nya listorna ska vara 2 långa
+- ) Printa sedan ut listan på samma sätt som tidigare
+
+tips: Google "python list of tuples", "python list of list"
+tips: istället för lista kan du använda "tuples".
+
 tips: Googla "python for loop", "python loop over list", "python loop print each element"
