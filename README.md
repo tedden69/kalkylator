@@ -102,3 +102,12 @@ tips: Google "python list of tuples", "python list of list"
 tips: istället för lista kan du använda "tuples".
 
 tips: Googla "python for loop", "python loop over list", "python loop print each element"
+
+Uppgift 4)
+
+- ) Importera nya filen display.py
+- ) ropa på funktionen "printWorm()" som ligger i display filen, och skicka med din lista med en mask (list1) som ett argument, så den ritas på skärmen. 
+    
+    Exempel på import: import display
+    Exempel på hur man ropar på funktionen: display.printWorm(worm)
+
