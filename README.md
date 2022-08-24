@@ -110,4 +110,11 @@ Uppgift 4)
     
     Exempel på import: import display
     Exempel på hur man ropar på funktionen: display.printWorm(worm)
+    
+Uppgift 5)
+
+- ) Skapa en funktion moveWorm(worm, direction), som alltså tar en variabel som är masklistan och direction, som är direction, och uppdaterar masken
+- ) Funktionen skall returner den uppdaterade masken
+
+OBS: Funktionen kan lämnas tom utan logik, dvs returnera nu enbart "worm" variabeln som du tog in som argument
 
