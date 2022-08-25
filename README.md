@@ -118,3 +118,9 @@ Uppgift 5)
 
 OBS: Funktionen kan lämnas tom utan logik, dvs returnera nu enbart "worm" variabeln som du tog in som argument
 
+Uppgift 6)
+
+- ) I din nya funktion moveWork, implementera if-statement som tittar på "direction" variabeln, och beroende på om direction är satt till 'w', 'a', 's' eller 'd' ska den köra en print för varje bokats, t.ex om man skickar in 'w' printar den: "changing direction up"
+
+
+
